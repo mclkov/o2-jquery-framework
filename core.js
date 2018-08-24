@@ -1,3 +1,8 @@
+/*
+Mykhailo Kovchan. 2018
+https://github.com/mclkov/o2-jquery-framework
+*/
+
 //******* FRAME *********//
 var frameBusted = (top != self);
 if (frameBusted) top.location.href = '/';
